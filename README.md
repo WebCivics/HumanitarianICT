@@ -64,9 +64,10 @@ Authoring tools via [ietf author resources](https://authors.ietf.org/en/home)
 ## List of Docs
 1. [letter](letter.md): tried to provide a summary letter, for interested parties to consider.  its a draft.
 2. [background](background.md): tries to illustrate the underlying premise / consideration...  
-3. [Case for Humanitarian ICT ID](CaseForHumanitarianICT.md)
-4. [Humanitarian ICT Definitions](HumanitarianICTDefinitions.md): Attepts to articulate the 'spirit' of the [UN Human Rights Instruments](https://www.ohchr.org/en/instruments-listings)
-5. [Humanitarian ICT Quantum Usecases](HumanitarianICTQMusecases.md): attempts to consider 'future challenges' relating to Quantum Computing powered Networks, Agents, etc.
-6. [HumanitarianICT Draft - Internet Draft](HumanitarianICT.md): A very early first 'template level' draft.
-7. [HumanitarianICT Draft - Internet Draft (txt)](rfc.txt): the same very early 'template level' draft in TXT format 
-8. [internetdraft xml template](rfc_template.xml): the XML Template, considered likely the more useful format (as suggested by IETF luminary) to format the IETF ID Draft.
+3. [IETF/IRTF Considerations (pre IETF119)](ietfnotes.md)
+4. [Case for Humanitarian ICT ID](CaseForHumanitarianICT.md)
+5. [Humanitarian ICT Definitions](HumanitarianICTDefinitions.md): Attepts to articulate the 'spirit' of the [UN Human Rights Instruments](https://www.ohchr.org/en/instruments-listings)
+6. [Humanitarian ICT Quantum Usecases](HumanitarianICTQMusecases.md): attempts to consider 'future challenges' relating to Quantum Computing powered Networks, Agents, etc.
+7. [HumanitarianICT Draft - Internet Draft](HumanitarianICT.md): A very early first 'template level' draft.
+8. [HumanitarianICT Draft - Internet Draft (txt)](rfc.txt): the same very early 'template level' draft in TXT format 
+9. [internetdraft xml template](rfc_template.xml): the XML Template, considered likely the more useful format (as suggested by IETF luminary) to format the IETF ID Draft.

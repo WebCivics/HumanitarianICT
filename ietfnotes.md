@@ -33,9 +33,21 @@ The notion of defining ‘humanitarian ict’ is non-trivial.  The practice meth
     - Discuss the importance of collaborative development of a humanitarian technical community and related supports.
     - How to Identify potential opportunities for standardisation & support the work.
     - Explore ways to ensure that humanitarian ICT is reliable, sustainable and scalable
-    
+
 Humanitarian ICT work is defined both by the objective purpose of the work, as well as the practice method and characteristics of its derivatives.  The scope of Humanitarian ICT works that can be performed is vast, as are the implications.  Humanitarian ICT work is considered to be a form of activity that relates to the creation, development & maintenance of Peace Infrastructure.
 
 Humanitarian ICT work is primarily defined as work done to have the material effect of rendering support and protection for the human rights of persons and/or means through which we as fellow members of our human family may positively impact our biosphere & sociosphere via knowledge.
 
 Humanitarian ICT work and infrastructure is considered to be increasingly instrumental for the protection and preservation of all rights, including but not limited to human rights and the means to support continuance of Humanitarian ICT projects needs to be made supportable at all times.
+
+### NOTE
+
+Authoring tools via [ietf author resources](https://authors.ietf.org/en/home)
+
+IRTF has a [Human Rights Protocol Considerations (hrpc)](https://datatracker.ietf.org/rg/hrpc/documents/) group.
+
+note also;
+- [RFC 8280: Research into Human Rights Protocol Considerations](https://datatracker.ietf.org/doc/rfc8280/)
+- [RFC8890: The Internet is for End Users](https://datatracker.ietf.org/doc/html/rfc8890) 
+
+Whilst the initial thought is that 'humanitarian ict' is a broader concept that is both complimentary and different to 'human rights protocol considerations', the means through which this is to be discussed should occur after the humanitarianICT-00 draft has been submitted.  Any work on Humanitarian ICT should act to support existing work rather than seeking to act as an alternative to existing RFCs.
