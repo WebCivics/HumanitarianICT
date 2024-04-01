@@ -15,3 +15,5 @@ in many ways, there are already a vast array of 'humanitarian ict' professionals
 The lives of people, is not carried in folios, brief-cases or notebooks anymore; if a person has no access to 'fit and proper' digital records in a timely manner, there can be very serious consequences, that may well cause incurable harms, well before clarification of circumstances are then later able to be distinguished.  
 
 I think our means to achieve SDGs, requires a means to better define Humanitarian ICT, and then go about supporting the growth of ICT. 
+
+[GO BACK TO README](README.md)
