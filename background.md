@@ -1,4 +1,11 @@
 # Background
+
+The development of internet, at this stage, has become instrumental to the survival of persons and societies.  Should Internet Dependent systems fail where they are depended upon generally otherwise, the implications are extordinarily significant. 
+
+The growth of internet has developed in some fields, far more than others.  Various international (/global) commercial works have had significant impacts, alongside governmental requirements for defence and the security and rights of legal personalities of various kinds.  However, there is still a great deal considered 'missing' for humanity, at large.
+
+Often the means to consider 'human rights' support opportunities, obligations, needs and related considerations; only happens after, major events, where, tooling, such as digital identity, becomes globally deployed, impacting humanity and the lives of many, if not most or all members of our human family - in ways never before possible.  We also have major challenges ahead of us in advancing our capacities to support a future 'knowledge age', and in-turn, both achieve and exceed the targets described as the sustainable development goals (SDGs).
+
 We have National Intelligence, foreign affairs capabilities, and defence capabilities. THis is then interwoven with large vendors in the ICT space. Often, workers seeking the ‘big bucks’ and in-turn companies seeking the ‘big contracts’ are engineering solutions specifically for these types of customers. Activities are performed in alignment with the needs of these critical state-based capabilities, but often yields what may be considered ‘authoritarian’ capabilities, lacking support for human rights.  As works have advanced, personhood has developed to incorporate both legal and technological structures, in various jurisdictions, leading to human beings in their natural / personal capacities, being defined as ‘consumers’ in many areas and laws.  
 
 What does not exist is ‘departments of peace’ and related industries, save very limited historical structures, that are both strained and often not ‘fit for purpose’.  Whilst various efforts have sought to be developed, there is a lack of formal structure to adequately support the needs of ‘peace industries’, in a ‘competitive marketplace’.  This is believed to give rise to corruption problems, thought to be, broadly, a major issue.
@@ -19,8 +26,7 @@ A Humanitarian ICT Sector is considered to be not only a foundational requiremen
 
 Historical Examples of Humanitarian ICT
 
-The World Wide Web 
-The Linux Kernel 
-Open RISC architecture 
-Wordpress 
-
+- The World Wide Web 
+- The Linux Kernel 
+- Open RISC architecture 
+- Arguably also, Wordpress & many other open-source projects.

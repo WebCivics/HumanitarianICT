@@ -58,3 +58,17 @@ https://www.youtube.com/watch?v=ZDH5eaIF_zc&t=2017s
 
 As i had not been to an IETF, i focused on learning about IETF rather than being otherwise hyper-focused on delivering an internet draft during that process.  The hope is to present the work at IETF120.
 
+
+### NOTE
+
+Authoring tools via [ietf author resources](https://authors.ietf.org/en/home)
+
+## List of Docs
+
+1. [background](background.md): tries to illustrate the underlying premise / consideration...  
+2. [Case for Humanitarian ICT ID](CaseForHumanitarianICT.md)
+3. [Humanitarian ICT Definitions](HumanitarianICTDefinitions.md): Attepts to articulate the 'spirit' of the [UN Human Rights Instruments](https://www.ohchr.org/en/instruments-listings)
+4. [Humanitarian ICT Quantum Usecases](HumanitarianICTQMusecases.md): attempts to consider 'future challenges' relating to Quantum Computing powered Networks, Agents, etc.
+5. [HumanitarianICT Draft - Internet Draft](HumanitarianICT.md): A very early first 'template level' draft.
+6. [HumanitarianICT Draft - Internet Draft (txt)](rfc.txt): the same very early 'template level' draft in TXT format 
+7. [internetdraft xml template](rfc_template.xml): the XML Template, considered likely the more useful format (as suggested by IETF luminary) to format the IETF ID Draft.
