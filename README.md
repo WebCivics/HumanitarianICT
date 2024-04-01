@@ -53,5 +53,8 @@ These works have in-part been on-going over many years, however better distilled
 I recently presented the 'humanitarian ict' concept at IETF119
 https://datatracker.ietf.org/meeting/119/materials/slides-119-hotrfc-sessa-08-humanitarian-ict
 
-as i had not been to an IETF, i focused on learning about IETF rather than being otherwise hyper-focused on delivering an internet draft during that process.  The hope is to present the work at IETF120.
+The video of me presenting it is here: 
+https://www.youtube.com/watch?v=ZDH5eaIF_zc&t=2017s 
+
+As i had not been to an IETF, i focused on learning about IETF rather than being otherwise hyper-focused on delivering an internet draft during that process.  The hope is to present the work at IETF120.
 
