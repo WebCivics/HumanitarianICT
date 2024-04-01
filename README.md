@@ -9,11 +9,10 @@ The purpose of this inquiry is to seek out luminaries interested in helping to d
 
 1. Humanitarian ICT workers
 2. Humanitarian ICT Segments
-
-3. Work Segments
-    i.   Infrastructure Segments
-    ii.  Software Segments
-    iii. Hardware Segments
+3. Work Segment
+- Infrastructure Segments
+- Software Segments
+- Hardware Segments
 4. Humanitarian ICT Socio-Economics
 
 This REPO contains some of the working docs, associated to the thoughtware development of this notion of a future humanitarian ict sector to support peace infrastructure projects.
