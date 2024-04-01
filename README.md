@@ -26,6 +26,8 @@ This REPO contains some of the working docs, associated to the thoughtware devel
 
 1.2 there is a notion of a 'agent discovery protocol' which is intended to be assistive, again, as a loosely coupled notion. whether and how to corralate the two considerations (one more broadly ethical / moral, the other more tactical, implementable, as one of many future projects) is yet to be better clarified.
 
+1.3 The first draft (00) is not the end text.  once the draft is submitted, then it will go through a process of being updated via the community. Therefore,this process, is to do my best, for that 00 draft.
+
 2. DOCS have been only quickly drafted, although, on the basis of much underlying consideration.  These documents are both an incomplete body of considerations; and, currently considered, poorly drafted.
 
 ### Next Steps
@@ -35,6 +37,8 @@ This REPO contains some of the working docs, associated to the thoughtware devel
 4. Once embodied, the objective will be to seek out 3rd party input.  Some initial canvassing activity has been undertaken, but only in a minor way. 
 
 5. the question as to whether the notion is an 'umbrella concept' that thereby harbours support for many projects to be defined as compliant with 'humanitarian ict' requirements; or not, is also, to be defined.
+
+6. I think, the notion is potentially of significant value and importance for the future of humanity.  If there is a way to do this work as a member of a group of willing people, that would be preferred than simply trying to do it myself; but, the responsibility to first communicate the notion as envisaged, is considered an important first step; so, that's what i'm working on now.
 
 ## Background of Project Notes
 
