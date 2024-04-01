@@ -58,7 +58,6 @@ https://www.youtube.com/watch?v=ZDH5eaIF_zc&t=2017s
 
 As i had not been to an IETF, i focused on learning about IETF rather than being otherwise hyper-focused on delivering an internet draft during that process.  The hope is to present the work at IETF120.
 
-
 ### NOTE
 
 Authoring tools via [ietf author resources](https://authors.ietf.org/en/home)
