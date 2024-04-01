@@ -17,3 +17,37 @@ The purpose of this inquiry is to seek out luminaries interested in helping to d
 4. Humanitarian ICT Socio-Economics
 
 This REPO contains some of the working docs, associated to the thoughtware development of this notion of a future humanitarian ict sector to support peace infrastructure projects.
+
+## Status
+
+1. A 'template' Internet Draft (RFC document) has been generated. However the document requires alot of work, 
+
+1.1 if there is prsently a tightly coupled relationship to the use of credentials, this is not intended - whilst, most certainly useful.  (ie: loosely coupled intended, not tightly coupled)
+
+1.2 there is a notion of a 'agent discovery protocol' which is intended to be assistive, again, as a loosely coupled notion. whether and how to corralate the two considerations (one more broadly ethical / moral, the other more tactical, implementable, as one of many future projects) is yet to be better clarified.
+
+2. DOCS have been only quickly drafted, although, on the basis of much underlying consideration.  These documents are both an incomplete body of considerations; and, currently considered, poorly drafted.
+
+### Next Steps
+
+3. I am working towards embodying the notion sufficently well.
+
+4. Once embodied, the objective will be to seek out 3rd party input.  Some initial canvassing activity has been undertaken, but only in a minor way. 
+
+5. the question as to whether the notion is an 'umbrella concept' that thereby harbours support for many projects to be defined as compliant with 'humanitarian ict' requirements; or not, is also, to be defined.
+
+## Background of Project Notes
+
+Works to support 'human centric' ecosystems (web / AI) have been underway over many years.  a notion of a 'human centric internet' has recently emerged, and, is considered in some ways to be adverserially competitive with like-minded groups using different names.  The solution to this was to try to attend to the underlying 'root-meaning', which led to seeking to define 'humanitarian ict'.
+
+UN and various other groups are actively involved in seeking to define 'digital transformation' ecosystems and related solutions.  However these efforts do not as yet appear to sufficiently act to deliver humanitarian ict ecosystem solutions - as a consequence of efforts from the beginnings of ID2020 in around 2015/6, alongside the SDGs.
+
+I have been undertaking works to define a (the) 'peace infrastructure project', which intends to seek to employ technology for the production of peace industries, with the hope of future beneficial socioeconomic outcome as required to exceed the delivery of SDGs.
+
+These works have in-part been on-going over many years, however better distilled with more involvement in international 'social' (political) works over recent years.
+
+I recently presented the 'humanitarian ict' concept at IETF119
+https://datatracker.ietf.org/meeting/119/materials/slides-119-hotrfc-sessa-08-humanitarian-ict
+
+as i had not been to an IETF, i focused on learning about IETF rather than being otherwise hyper-focused on delivering an internet draft during that process.  The hope is to present the work at IETF120.
+
